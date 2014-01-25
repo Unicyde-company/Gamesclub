@@ -1,3 +1,3 @@
-Gamesclub
+# Gamesclub
 =========
-Simple way to play
+## Simple way to play
